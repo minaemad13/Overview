@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaemad13&label=Profile%20views&color=0e75b6&style=flat" alt="minaemad13" /> </p>
 
-<p align="center"> <img  width="300" height="300" src="https://octodex.github.com/images/bouncercat.png" alt="minaemad13" /> <img  width="300" height="300" src="https://octodex.github.com/images/deckfailcat.png" alt="minaemad13" /> <img  width="300" height="300" src="https://octodex.github.com/images/Fintechtocat.png" alt="minaemad13" /> </p>
+<p align="center"> <img  width="250" height="250" src="https://octodex.github.com/images/bouncercat.png" alt="minaemad13" /> <img  width="250" height="250" src="https://octodex.github.com/images/deckfailcat.png" alt="minaemad13" /> <img  width="250" height="250" src="https://octodex.github.com/images/Fintechtocat.png" alt="minaemad13" /> </p>
 
 
 
