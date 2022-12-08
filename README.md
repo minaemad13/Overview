@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Vega Data Tech [Backend Developer](https://vegadata.ai/)
 
-- 🌱 I’m currently learning **Angular , DevOps , Analatical SQL**
+- 🌱 I’m currently learning **DevOps Concept , Analatical SQL , Advanced SQL , PL/SQL**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/minaemad13)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **menaemadorai@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KHZ7vWplzHGlRoMSWEdCu4b-HQ2id41S/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E4lp5k8Gg1sHOqCYBMJaGGcCvXLajPTo/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
